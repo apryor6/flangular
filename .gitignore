@@ -40,3 +40,4 @@ Thumbs.db
 
 # python
 backends/flangular/flangular-py3
+.pytest_cache/
